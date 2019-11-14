@@ -1,6 +1,3 @@
-# appointment_booking_node
-
-
 #  Appointment booking server
 - Mongo database used for storing appointment data.
 - APIs to fetch, update, delete the appointment details based on slot.
