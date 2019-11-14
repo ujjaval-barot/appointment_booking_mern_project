@@ -143,7 +143,7 @@ export default class Profile extends Component {
         );
       })
       .catch(err => {
-        console.log(err);
+        return ;
       });
   }
 

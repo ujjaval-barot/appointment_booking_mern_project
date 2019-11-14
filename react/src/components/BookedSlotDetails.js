@@ -25,7 +25,7 @@ export default class BookedSlotDetails extends Component {
         });
       })
       .catch(err => {
-        console.log(err);
+        return;
       });
   }
 

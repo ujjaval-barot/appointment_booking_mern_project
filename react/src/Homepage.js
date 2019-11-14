@@ -25,7 +25,6 @@ class Homepage extends Component {
       loader: false,
       error: false
     }) }, 1000);
-    console.log(this.state);
   }
 
   render() {
